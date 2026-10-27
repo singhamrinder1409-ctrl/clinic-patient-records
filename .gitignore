@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.venv/
+clinic/patients.json
+clinic/records/*
+!clinic/records/.gitkeep
+clinic/users.txt
