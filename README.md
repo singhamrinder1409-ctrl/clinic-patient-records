@@ -35,7 +35,7 @@ Verified on Python 3.12: **23 tests passed** after correcting the older patient-
 
 ## My contribution and context
 
-SENG 265, University of Victoria, Fall 2024. Paired coursework project. Amrinder Singh contributed to patient and note operations, login checks and exception handling. The supplied materials do not establish line-by-line authorship; course-provided tests and helper material are not claimed as original work.
+SENG 265, University of Victoria, Fall 2024. Paired coursework project. Amrinder Singh contributed to patient and note operations, login checks and exception handling. The repository includes supplied course tests and helper material.
 
 Portfolio preparation adds this documentation, the synthetic demo and setup script, and updates the older patient-record test fixture to supply the now-required patient identifier.
 
@@ -47,4 +47,4 @@ Next steps: replace pickle with a versioned data format, use proper password has
 
 ## Credits
 
-Amrinder Singh and a course project partner. Partner name was not included in the supplied files. Original coursework and supplied test provenance are retained where documented in source comments. No third-party code is relicensed by this repository.
+Amrinder Singh and a course project partner. Course-provided material is identified where documented in source comments.
